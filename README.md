@@ -64,7 +64,6 @@ python password_checker.py
 What I Learned
 
 * How to use string operations like `.isupper()`, `.islower()`
-* Using `any()` with conditions
 * Creating and using Python functions
 * Generating random values using `random` and `string`
 * Giving useful feedback based on conditions
