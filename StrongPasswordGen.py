@@ -85,7 +85,7 @@ def PasswordGen():
 
 while True:
 # Run generator
-    # PasswordGen()
+    PasswordGen()
 
 # Run strength logic
 
